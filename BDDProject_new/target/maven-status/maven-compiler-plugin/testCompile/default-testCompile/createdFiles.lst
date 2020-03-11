@@ -1,0 +1,6 @@
+pages\SignOnPage.class
+pages\LoginPage.class
+utils\TestBase.class
+stepDefinitions\SignOnPageSteps.class
+runner\TestRunner.class
+utils\TestUtil.class
