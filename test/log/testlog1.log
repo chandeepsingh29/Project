@@ -1,0 +1,54 @@
+2019-02-21 00:56:08,280 [main] INFO MercuryTest---Login - LOGIN Execution Started
+2019-02-21 00:56:43,196 [main] INFO MercuryTest---Login - LOGIN Execution Ended
+2019-02-21 00:58:33,454 [main] INFO MercuryTest---Login - LOGIN Execution Started
+2019-02-21 00:59:09,274 [main] INFO MercuryTest---Login - LOGIN Execution Ended
+2019-02-21 01:01:47,709 [main] INFO MercuryTest---Login - LOGIN Execution Started
+2019-02-21 01:02:22,761 [main] INFO MercuryTest---Login - LOGIN Execution Ended
+2019-02-21 01:07:47,556 [main] INFO MercuryTest---Login - LOGIN Execution Started
+2019-02-21 01:08:22,556 [main] INFO MercuryTest---Login - LOGIN Execution Ended
+2019-02-21 01:10:02,069 [main] INFO MercuryTest---Login - LOGIN Execution Started
+2019-02-21 01:10:37,324 [main] INFO MercuryTest---Login - LOGIN Execution Ended
+2019-02-21 01:15:09,551 [main] INFO MercuryTest---Login - LOGIN Execution Started
+2019-02-21 01:15:45,151 [main] INFO MercuryTest---Login - LOGIN Execution Ended
+2019-02-21 01:19:24,212 [main] INFO MercuryTest---Login - LOGIN Execution Started
+2019-02-21 01:19:59,453 [main] INFO MercuryTest---Login - LOGIN Execution Ended
+2019-02-21 08:54:45,681 [main] INFO MercuryTest---Login - LOGIN Execution Started
+2019-02-21 08:55:21,211 [main] INFO MercuryTest---Login - LOGIN Execution Ended
+2019-02-21 09:00:36,552 [main] INFO MercuryTest---Login - LOGIN Execution Started
+2019-02-21 09:01:11,944 [main] INFO MercuryTest---Login - LOGIN Execution Ended
+2019-02-21 09:10:14,670 [main] INFO MercuryTest---Login - LOGIN Execution Started
+2019-02-21 09:10:50,942 [main] INFO MercuryTest---Login - LOGIN Execution Ended
+2019-02-21 09:17:41,430 [main] INFO MercuryTest---Login - LOGIN Execution Started
+2019-02-21 09:17:56,491 [main] INFO MercuryTest---Login - LOGIN Execution Ended
+2019-02-21 09:22:05,985 [main] INFO MercuryTest---InvalidLoginToMercury - INVALIDLOGINTOMERCURY Execution Started
+2019-02-21 09:22:18,353 [main] INFO MercuryTest---InvalidLoginToMercury - INVALIDLOGINTOMERCURY Execution Ended
+2019-02-21 09:22:25,609 [main] INFO MercuryTest---ValidLoginToMercury - VALIDLOGINTOMERCURY Execution Started
+2019-02-21 09:22:41,272 [main] INFO MercuryTest---ValidLoginToMercury - VALIDLOGINTOMERCURY Execution Ended
+2019-02-21 09:27:01,472 [main] INFO MercuryTest---InvalidLoginToMercury - INVALIDLOGINTOMERCURY Execution Started
+2019-02-21 09:27:14,057 [main] INFO MercuryTest---InvalidLoginToMercury - INVALIDLOGINTOMERCURY Execution Ended
+2019-02-21 09:27:21,422 [main] INFO MercuryTest---ValidLoginToMercury - VALIDLOGINTOMERCURY Execution Started
+2019-02-21 09:27:50,125 [main] INFO MercuryTest---ValidLoginToMercury - VALIDLOGINTOMERCURY Execution Ended
+2019-02-21 09:31:49,278 [main] INFO MercuryTest---InvalidLoginToMercury - result.getMethod().getMethodName().toUpperCase() + " Execution Ended"
+2019-02-21 09:31:49,287 [main] INFO MercuryTest---InvalidLoginToMercury - result.getMethod().getMethodName().toUpperCase() + " Execution Ended"
+2019-02-21 09:32:36,997 [main] INFO MercuryTest---InvalidLoginToMercury - result.getMethod().getMethodName().toUpperCase() + " Execution Ended"
+2019-02-21 09:32:37,004 [main] INFO MercuryTest---InvalidLoginToMercury - result.getMethod().getMethodName().toUpperCase() + " Execution Ended"
+2019-02-21 09:33:13,412 [main] INFO MercuryTest---InvalidLoginToMercury - INVALIDLOGINTOMERCURY Execution Started
+2019-02-21 09:33:26,888 [main] INFO MercuryTest---InvalidLoginToMercury - INVALIDLOGINTOMERCURY Execution Ended
+2019-02-21 09:33:34,271 [main] INFO MercuryTest---ValidLoginToMercury - VALIDLOGINTOMERCURY Execution Started
+2019-02-21 09:34:02,548 [main] INFO MercuryTest---ValidLoginToMercury - VALIDLOGINTOMERCURY Execution Ended
+2019-02-21 09:34:17,192 [main] INFO MercuryTest---InvalidLoginToMercury - result.getMethod().getMethodName().toUpperCase() + " Execution Ended"
+2019-02-21 09:34:17,200 [main] INFO MercuryTest---InvalidLoginToMercury - result.getMethod().getMethodName().toUpperCase() + " Execution Ended"
+2019-02-21 09:34:49,143 [main] INFO MercuryTest---InvalidLoginToMercury - INVALIDLOGINTOMERCURY Execution Started
+2019-02-21 09:35:01,315 [main] INFO MercuryTest---InvalidLoginToMercury - INVALIDLOGINTOMERCURY Execution Ended
+2019-02-21 09:35:08,772 [main] INFO MercuryTest---ValidLoginToMercury - VALIDLOGINTOMERCURY Execution Started
+2019-02-21 09:35:39,781 [main] INFO MercuryTest---ValidLoginToMercury - VALIDLOGINTOMERCURY Execution Ended
+2019-02-21 09:37:08,817 [main] INFO MercuryTest---InvalidLoginToMercury - result.getMethod().getMethodName().toUpperCase() + " Execution Ended"
+2019-02-21 09:37:08,827 [main] INFO MercuryTest---InvalidLoginToMercury - result.getMethod().getMethodName().toUpperCase() + " Execution Ended"
+2019-02-21 09:37:56,371 [main] INFO MercuryTest---InvalidLoginToMercury - INVALIDLOGINTOMERCURY Execution Started
+2019-02-21 09:38:09,556 [main] INFO MercuryTest---InvalidLoginToMercury - INVALIDLOGINTOMERCURY Execution Ended
+2019-02-21 09:38:19,106 [main] INFO MercuryTest---ValidLoginToMercury - VALIDLOGINTOMERCURY Execution Started
+2019-02-21 09:38:38,073 [main] INFO MercuryTest---ValidLoginToMercury - VALIDLOGINTOMERCURY Execution Ended
+2019-02-21 13:05:25,755 [main] INFO MercuryTest---InvalidLoginToMercury - INVALIDLOGINTOMERCURY Execution Started
+2019-02-21 13:05:38,596 [main] INFO MercuryTest---InvalidLoginToMercury - INVALIDLOGINTOMERCURY Execution Ended
+2019-02-21 13:05:59,153 [main] INFO MercuryTest---ValidLoginToMercury - VALIDLOGINTOMERCURY Execution Started
+2019-02-21 13:06:14,811 [main] INFO MercuryTest---ValidLoginToMercury - VALIDLOGINTOMERCURY Execution Ended
